@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home_menu"
+        android:icon="@drawable/baseline_add_home_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/Calculator_menu"
+        android:icon="@drawable/baseline_10k_24"
+        android:title="Calculate" />
+    <item
+        android:id="@+id/pleasure_menu"
+        android:icon="@drawable/baseline_airline_seat_recline_normal_24"
+        android:title="Pleasure" />
+</menu>
